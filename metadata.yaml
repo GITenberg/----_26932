@@ -1,0 +1,29 @@
+_repo: '----_26932'
+_version: 0.1.0
+alternative_title: Zhi Shi Yu Wen
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chen, Hongmo
+    alias: 陳洪謨
+    birthdate: 1474
+    deathdate: 1555
+    gutenberg_agent_id: '32342'
+    url: http://www.gutenberg.org/2009/agents/32342
+description: ''
+gutenberg_issued: '2008-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26932'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'AC'
+- !lcsh 'China -- History -- Ming dynasty, 1368-1644 -- Anecdotes'
+- !lcc 'PL'
+title: 治世餘聞
+url: http://www.gutenberg.org/ebooks/26932
